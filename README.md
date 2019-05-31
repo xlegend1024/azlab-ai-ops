@@ -2,6 +2,8 @@
 
 Check list for this lab
 
+[Also you can have detail instruction for the prerequisites](https://github.com/xlegend1024/azlab-ai-ops/blob/master/MandatoryLabPreReqs.pdf)
+
 ## Azure DevOps
 
 Do you have access to [Azure DevOps](https://devops.azure.com)?
