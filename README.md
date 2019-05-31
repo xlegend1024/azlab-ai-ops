@@ -1,14 +1,14 @@
 # MANDATORY PREREQUISITES
 
-In order to have [AI DevOps lab](https://github.com/gmarchet/dnnworkshop4) you need to make sure you check all of following points.
+In order to have [AI DevOps lab](https://github.com/gmarchet/dnnworkshop4) you need to make sure you check all of following questions.
 
-[You can have detail instruction for the prerequisites](https://github.com/xlegend1024/azlab-ai-ops/blob/master/MandatoryLabPreReqs.pdf)
+> [You can have detail instruction for the prerequisites](https://github.com/xlegend1024/azlab-ai-ops/blob/master/MandatoryLabPreReqs.pdf)
 
 ## Azure DevOps
 
 Do you have access to [Azure DevOps](https://devops.azure.com)?
 
-##
+## Azure subscriptions and Service Principal
 
 Do you have Azure Subscription?
 
