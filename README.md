@@ -2,7 +2,7 @@
 
 In order to have [AI DevOps lab](https://github.com/gmarchet/dnnworkshop4) you need to make sure you check all of following questions.
 
-> [You can have detail instruction for the prerequisites](https://github.com/xlegend1024/azlab-ai-ops/blob/master/MandatoryLabPreReqs.pdf)
+> [You can have detail instruction to configure for the prerequisites](https://github.com/xlegend1024/azlab-ai-ops/blob/master/MandatoryLabPreReqs.pdf)
 
 ## Azure DevOps
 
