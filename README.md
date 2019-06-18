@@ -14,7 +14,8 @@ Do you have Azure Subscription?
 
 Do you have a Resource Group with Owner role?
 
-Do you have a Service Principal as contributor in the Resource Group that you're assigned as Owner?
+Do you have a Service Principal as contributor in your __subscription__?
+> ~~Do you have a Service Principal as contributor in the Resource Group that you're assigned as Owner?~~
 
 Do you know the Service Pricipal Application ID?
 
